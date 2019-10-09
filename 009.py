@@ -1,6 +1,6 @@
 from time import sleep
 
-'''Exercício 009: Faça um programa que leia um número Inteiro qualquer e mostre na tela a sua tabuada.'''
+'''Exercício 009: Leia um número Inteiro qualquer e mostre na tela a sua tabuada.'''
 
 num = int(input('Tabuada do: '))
 print('-' * 14)
