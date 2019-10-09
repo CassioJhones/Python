@@ -6,4 +6,4 @@ x = int(input('Digite um numero: '))
 suce = x+1
 ante = x-1
 print('o Sucessor é {}, o Antecessor é {}'.format(suce, ante))
-sleep(3) #AGUARDAR 3 SECUNDOS PARA FECHAR PROGRAMA
+sleep(3)
